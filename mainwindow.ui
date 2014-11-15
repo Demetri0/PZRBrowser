@@ -30,7 +30,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="previous"/>
+             <iconset theme="previous" resource="resource.qrc">
+              <normaloff>:/images/import.png</normaloff>:/images/import.png</iconset>
             </property>
            </widget>
           </item>
@@ -40,7 +41,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="next"/>
+             <iconset theme="next" resource="resource.qrc">
+              <normaloff>:/images/export.png</normaloff>:/images/export.png</iconset>
             </property>
            </widget>
           </item>
@@ -50,7 +52,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="reload"/>
+             <iconset theme="reload" resource="resource.qrc">
+              <normaloff>:/images/refresh.png</normaloff>:/images/refresh.png</iconset>
             </property>
            </widget>
           </item>
@@ -84,9 +87,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="previous">
-              <normaloff/>
-             </iconset>
+             <iconset theme="previous" resource="resource.qrc">
+              <normaloff>:/images/import.png</normaloff>:/images/import.png</iconset>
             </property>
            </widget>
           </item>
@@ -96,9 +98,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="next">
-              <normaloff/>
-             </iconset>
+             <iconset theme="next" resource="resource.qrc">
+              <normaloff>:/images/export.png</normaloff>:/images/export.png</iconset>
             </property>
            </widget>
           </item>
@@ -108,9 +109,8 @@
              <string>...</string>
             </property>
             <property name="icon">
-             <iconset theme="reload">
-              <normaloff/>
-             </iconset>
+             <iconset theme="reload" resource="resource.qrc">
+              <normaloff>:/images/refresh.png</normaloff>:/images/refresh.png</iconset>
             </property>
            </widget>
           </item>
@@ -173,7 +173,9 @@
    <header>QtWebKitWidgets/QWebView</header>
   </customwidget>
  </customwidgets>
- <resources/>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
  <connections>
   <connection>
    <sender>TBtn_L_Prev</sender>
