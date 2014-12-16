@@ -21,3 +21,5 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     resource.qrc
+
+TRANSLATIONS += PZRBrowser_Ru_ru.ts
