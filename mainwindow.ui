@@ -11,7 +11,11 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>PZR Browser</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="resource.qrc">
+    <normaloff>:/images/pzr.png</normaloff>:/images/pzr.png</iconset>
   </property>
   <widget class="QWidget" name="centralWidget">
    <layout class="QVBoxLayout" name="verticalLayout">
@@ -26,41 +30,65 @@
          <layout class="QHBoxLayout" name="HLay_Left_ToolBar">
           <item>
            <widget class="QToolButton" name="TBtn_L_Prev">
+            <property name="toolTip">
+             <string>Previous</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="previous" resource="resource.qrc">
-              <normaloff>:/images/import.png</normaloff>:/images/import.png</iconset>
+              <normaloff>:/images/go_left.svg</normaloff>:/images/go_left.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QToolButton" name="TBtn_L_Next">
+            <property name="toolTip">
+             <string>Next</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="next" resource="resource.qrc">
-              <normaloff>:/images/export.png</normaloff>:/images/export.png</iconset>
+              <normaloff>:/images/go-right.svg</normaloff>:/images/go-right.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QToolButton" name="TBtn_L_Refresh">
+            <property name="toolTip">
+             <string>Refresh</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="reload" resource="resource.qrc">
-              <normaloff>:/images/refresh.png</normaloff>:/images/refresh.png</iconset>
+              <normaloff>:/images/gtk-refresh.svg</normaloff>:/images/gtk-refresh.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QLineEdit" name="LineEdit_L_Url">
+            <property name="toolTip">
+             <string>Url</string>
+            </property>
+            <property name="text">
+             <string>https://vk.com/pomodorka_zr</string>
+            </property>
+            <property name="frame">
+             <bool>true</bool>
+            </property>
+            <property name="dragEnabled">
+             <bool>true</bool>
+            </property>
             <property name="placeholderText">
              <string>http://</string>
+            </property>
+            <property name="clearButtonEnabled">
+             <bool>true</bool>
             </property>
            </widget>
           </item>
@@ -83,41 +111,65 @@
          <layout class="QHBoxLayout" name="HLay_Right_ToolBar">
           <item>
            <widget class="QToolButton" name="TBtn_R_Prev">
+            <property name="toolTip">
+             <string>Previous</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="previous" resource="resource.qrc">
-              <normaloff>:/images/import.png</normaloff>:/images/import.png</iconset>
+              <normaloff>:/images/go_left.svg</normaloff>:/images/go_left.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QToolButton" name="TBtn_R_Next">
+            <property name="toolTip">
+             <string>Next</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="next" resource="resource.qrc">
-              <normaloff>:/images/export.png</normaloff>:/images/export.png</iconset>
+              <normaloff>:/images/go-right.svg</normaloff>:/images/go-right.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QToolButton" name="TBtn_R_Refresh">
+            <property name="toolTip">
+             <string>Refresh</string>
+            </property>
             <property name="text">
              <string>...</string>
             </property>
             <property name="icon">
              <iconset theme="reload" resource="resource.qrc">
-              <normaloff>:/images/refresh.png</normaloff>:/images/refresh.png</iconset>
+              <normaloff>:/images/gtk-refresh.svg</normaloff>:/images/gtk-refresh.svg</iconset>
             </property>
            </widget>
           </item>
           <item>
            <widget class="QLineEdit" name="LineEdit_R_Url">
+            <property name="toolTip">
+             <string>Url</string>
+            </property>
+            <property name="text">
+             <string>https://www.youtube.com/user/PomodorkaZR</string>
+            </property>
+            <property name="frame">
+             <bool>true</bool>
+            </property>
+            <property name="dragEnabled">
+             <bool>true</bool>
+            </property>
             <property name="placeholderText">
              <string>http://</string>
+            </property>
+            <property name="clearButtonEnabled">
+             <bool>true</bool>
             </property>
            </widget>
           </item>
@@ -127,7 +179,7 @@
          <widget class="QWebView" name="WebView_Right">
           <property name="url">
            <url>
-            <string>about:blank</string>
+            <string>https://www.youtube.com/user/PomodorkaZR</string>
            </url>
           </property>
          </widget>
@@ -138,27 +190,11 @@
     </item>
    </layout>
   </widget>
-  <widget class="QMenuBar" name="menuBar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>1038</width>
-     <height>27</height>
-    </rect>
-   </property>
-   <widget class="QMenu" name="menuMain">
-    <property name="title">
-     <string>Main</string>
-    </property>
-    <addaction name="actionExit"/>
-   </widget>
-   <addaction name="menuMain"/>
-  </widget>
-  <widget class="QStatusBar" name="statusBar"/>
   <action name="actionExit">
    <property name="icon">
-    <iconset theme="exit"/>
+    <iconset theme="exit">
+     <normaloff/>
+    </iconset>
    </property>
    <property name="text">
     <string>Exit</string>

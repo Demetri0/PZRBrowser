@@ -1,7 +1,8 @@
 <RCC>
     <qresource prefix="/">
-        <file>images/refresh.png</file>
-        <file>images/import.png</file>
-        <file>images/export.png</file>
+        <file>images/gtk-refresh.svg</file>
+        <file>images/go-right.svg</file>
+        <file>images/go_left.svg</file>
+        <file>images/pzr.png</file>
     </qresource>
 </RCC>
