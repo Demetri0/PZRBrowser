@@ -1,10 +1,20 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
+#include "localization.h"
+
+#include <QDebug>
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
+    QLocale::Language language = QLocale::Russian;
+    QString appDirPath = qApp->applicationDirPath() + QDir::separator();
+    qtTr.load( Localization::getQtBaseFileOfLocalization( language, QStringList() << appDirPath ) );
+    appTr.load( Localization::getFileOfLocalization( language, QStringList() << appDirPath ) );
+
+    qApp->installTranslator(&qtTr);
+    qApp->installTranslator(&appTr);
     ui->setupUi(this);
 }
 

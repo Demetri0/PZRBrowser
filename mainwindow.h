@@ -12,6 +12,8 @@ class MainWindow : public QMainWindow
 {
     Q_OBJECT
 
+    QTranslator qtTr;
+    QTranslator appTr;
 public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();

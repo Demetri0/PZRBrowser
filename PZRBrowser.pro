@@ -30,9 +30,11 @@ QMAKE_TARGET_COPYRIGHT = (CopyLeft) Demetri0
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    localization.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    localization.h
 
 FORMS    += mainwindow.ui
 
