@@ -3,8 +3,6 @@
         <file>images/gtk-refresh.svg</file>
         <file>images/go-right.svg</file>
         <file>images/go_left.svg</file>
-        <file>images/pzr.png</file>
-        <file>images/pzri.png</file>
         <file>images/pzr.svg</file>
     </qresource>
 </RCC>
