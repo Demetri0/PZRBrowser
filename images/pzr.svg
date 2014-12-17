@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Новый документ 1">
+  <title
+     id="title5812">PZR Logo</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5772">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5774" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5776" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5764">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5766" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop5768" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5723"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5725" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4273"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#eeede6;stop-opacity:1;"
+         offset="0"
+         id="stop4275" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3790">
+      <stop
+         style="stop-color:#372b48;stop-opacity:0.8140496;"
+         offset="0"
+         id="stop3792" />
+      <stop
+         style="stop-color:#9d0000;stop-opacity:0.92148763;"
+         offset="1"
+         id="stop3794" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#831d1d;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#ea0000;stop-opacity:0.69421488;"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3755"
+       id="linearGradient3769"
+       x1="31.560347"
+       y1="60.88549"
+       x2="31.560347"
+       y2="0.0044803065"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#423cff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.35686275"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="-46.092442"
+     inkscape:cy="35.61325"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3782"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-page="false"
+     inkscape:snap-object-midpoints="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PZR Logo</dc:title>
+        <dc:date>17.12.14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Demetri0</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>PZR</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>PZR</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>PZR</dc:identifier>
+        <dc:source>PZR</dc:source>
+        <dc:language>EN</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>PZR</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)" />
+  <g
+     transform="translate(0,-988.36218)"
+     id="g3782"
+     inkscape:groupmode="layer"
+     inkscape:label="Копия слоя Layer 1">
+    <path
+       transform="matrix(1.0240376,0,0,1.0240377,-0.98548781,989.62915)"
+       d="m 62.423101,30.01162 a 30.211893,30.211893 0 1 1 -60.4237857,0 30.211893,30.211893 0 1 1 60.4237857,0 z"
+       sodipodi:ry="30.211893"
+       sodipodi:rx="30.211893"
+       sodipodi:cy="30.01162"
+       sodipodi:cx="32.211208"
+       id="path3784"
+       style="fill:url(#linearGradient3769);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.60913002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc" />
+    <g
+       id="g5757"
+       transform="translate(-20.855976,-5.3896201)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3798"
+         d="m 64.523153,1019.4773 c -1.338113,0.045 -2.101391,0.7429 -2.15625,1.8225 l 0,1.9269 -1.625,0 1.5625,1.7712 0,7.0206 3.003482,-1.9062 0,-4.7813 5.8125,5.7813 4.090268,0 -6.125,-6.0938 2.6875,0 2.15625,-2.4062 0,-2.6784 c 0.0047,-0.3038 -0.173802,-0.4529 -0.427844,-0.4566 z m 2.190472,2.3225 5.169319,0.031 c 0.490485,0.014 -0.776319,1.0938 -1.016041,1.4063 l -5.548744,0 c 6.8e-5,-0.9878 0.422164,-1.42 1.395466,-1.4373 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5b0000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4212"
+         d="m 46.553998,1019.5888 10.21875,0 c 0.927324,0.5163 1.941272,2.0222 1.376342,2.3839 l -6.964974,6.965 5.338632,0 c 1.950004,1.6316 1.59957,1.5378 2.028691,2.0287 l -10.809941,0 c -1.008598,-0.4279 -1.730799,-1.132 -1.082819,-1.8755 l 6.964316,-6.9643 -5.600247,0 c -2.147845,-2.2673 -1.532009,-2.1657 -1.46875,-2.5378 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5b0000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4214"
+         d="m 38.428998,1019.5576 -3.5,3.5625 1.03125,-1 5.4375,0 c -0.007,0.6041 -0.585801,0.7181 -0.96875,1 l -5.5,0 -2.5,2.5312 0,6.375 2.875,-1.6562 0,-5.1563 6.625,0 c 0.470799,-0.3932 1.665286,-1.0482 2.1875,-2.1875 l 0,-2.9687 c 0.01431,-0.3398 -0.122602,-0.505 -0.5,-0.5 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5b0000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4221"
+         d="m 31.874311,1023.9873 4.546874,-4.4375 1.976563,0.01 -5.941406,6.0273 -0.636637,-1.2458 z"
+         style="fill:#d40000;stroke:#501616;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4223"
+         d="m 30.301301,1023.0185 1.347252,1.2141 0.04419,-0.3315 4.651437,-4.5299 -0.679485,0.1326 c -1.648868,0.6415 -3.169717,1.891 -3.538283,3.7332 -0.206716,-0.2018 -1.825111,-0.2185 -1.825111,-0.2185 z"
+         style="fill:#000000;stroke:none" />
+    </g>
+  </g>
+</svg>
